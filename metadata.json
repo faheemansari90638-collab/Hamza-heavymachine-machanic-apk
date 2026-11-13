@@ -1,0 +1,6 @@
+{
+  "name": "JCB Master Mechanic",
+  "description": "A to Z offline parts, repair, diagnosis, and training guide for JCB heavy machinery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
